@@ -19,6 +19,8 @@ Exploring
 - [ ] https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/
 - [ ] https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm
 - [ ] https://www.freedomgpt.com/
+- [ ] https://github.com/neonbjb/tortoise-tts
+- [ ] https://github.com/AIGC-Audio/AudioGPT
 
 
 
