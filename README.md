@@ -21,6 +21,7 @@ Exploring
 - [ ] https://www.freedomgpt.com/
 - [ ] https://github.com/neonbjb/tortoise-tts
 - [ ] https://github.com/AIGC-Audio/AudioGPT
+- [x] https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
 
 
 
