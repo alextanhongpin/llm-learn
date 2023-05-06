@@ -24,6 +24,7 @@ Exploring
 - [ ] https://github.com/AIGC-Audio/AudioGPT
 - [x] https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
 - [ ] https://bea.stollnitz.com/blog/how-gpt-works/
+- [ ] [OpenLLaMA](https://huggingface.co/docs/transformers/main/model_doc/open-llama)
 
 
 ## References
@@ -56,3 +57,12 @@ Order by priority
 - [ ] #ffff00 [Converting and Quantizing the models](https://github.com/ravenscroftj/turbopilot/wiki/Converting-and-Quantizing-The-Models)
 - [ ] #ffff00 https://lightning.ai/pages/community/tutorial/accelerating-llama-with-fabric-a-comprehensive-guide-to-training-and-fine-tuning-llama/
 - [ ] #ffff00 [Faiss guidelines to choose index](https://github.com/facebookresearch/faiss/wiki/Guidelines-to-choose-an-index)
+
+In progress
+
+- N/A
+
+Done
+
+- [Real World Programming with ChatGPT](https://www.oreilly.com/radar/real-world-programming-with-chatgpt/)
+- [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
