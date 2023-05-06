@@ -20,7 +20,10 @@ Exploring
 - [ ] https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm
 - [ ] https://www.freedomgpt.com/
 - [ ] MetaGPT create app https://www.marktechpost.com/2023/05/03/meet-metagpt-a-gpt-4-powered-application-can-create-websites-apps-and-more-based-only-on-natural-language-prompts/
-
+- [ ] https://github.com/neonbjb/tortoise-tts
+- [ ] https://github.com/AIGC-Audio/AudioGPT
+- [x] https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
+- [ ] https://bea.stollnitz.com/blog/how-gpt-works/
 
 
 ## References
