@@ -25,7 +25,7 @@ Exploring
 - [x] https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
 - [ ] https://bea.stollnitz.com/blog/how-gpt-works/
 - [ ] [OpenLLaMA](https://huggingface.co/docs/transformers/main/model_doc/open-llama)
-
+- https://the-decoder.com/mpt-7b-the-best-open-source-llm-available-for-commercial-use/
 
 ## References
 
