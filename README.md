@@ -26,6 +26,8 @@ Exploring
 - [ ] https://bea.stollnitz.com/blog/how-gpt-works/
 - [ ] [OpenLLaMA](https://huggingface.co/docs/transformers/main/model_doc/open-llama)
 - https://the-decoder.com/mpt-7b-the-best-open-source-llm-available-for-commercial-use/
+- [x] https://huggingface.co/spaces/HuggingFaceH4/starchat-playground
+  - chat with StarCoder
 
 ## References
 
