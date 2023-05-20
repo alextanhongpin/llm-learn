@@ -28,6 +28,15 @@ Exploring
 - https://the-decoder.com/mpt-7b-the-best-open-source-llm-available-for-commercial-use/
 - [x] https://huggingface.co/spaces/HuggingFaceH4/starchat-playground
   - chat with StarCoder
+- [ ] imagebind by meta
+- [ ] transformer agent
+- [ ] https://colab.research.google.com/drive/1HGpp1OI-o_ppHi2bHZsvV6QX9k5gsTIK?usp=sharing
+- [ ] https://www.zdnet.com/article/stability-ai-releases-an-open-source-text-to-animation-tool/
+- [ ] https://cloud.google.com/blog/products/data-analytics
+- [ ] https://blog.pragmaticengineer.com/github-copilot-alternatives/
+- [ ] https://huyenchip.com/2023/05/02/rlhf.html
+- [ ] https://cameronrwolfe.substack.com/p/prompt-ensembles-make-llms-more-reliable
+
 
 ## References
 
