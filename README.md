@@ -38,6 +38,31 @@ Exploring
 - [ ] https://cameronrwolfe.substack.com/p/prompt-ensembles-make-llms-more-reliable
 
 
+Llm
+
+https://realpython.com/practical-prompt-engineering/
+
+
+
+https://eugeneyan.com/writing/llm-patterns/?utm_source=substack&utm_medium=email
+
+https://towardsdatascience.com/making-vision-transformers-predict-9-times-faster-with-pytorch-onnx-tensorrt-and-multi-threading-dc1f09b6814
+
+
+https://a16z.com/2023/05/25/ai-canon/
+
+
+https://blog.tensorflow.org/2023/06/augmenting-recommendation-systems-with.html
+
+https://developers.generativeai.google/guide
+
+Vector db
+
+https://terminusdb.com/blog/vector-database-and-vector-embeddings/
+
+https://cloud.google.com/blog/products/databases/using-pgvector-llms-and-langchain-with-google-cloud-databases
+
+
 ## References
 
 
