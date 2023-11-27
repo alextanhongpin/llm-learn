@@ -93,6 +93,17 @@ Order by priority
 - [ ] #ffff00 [Converting and Quantizing the models](https://github.com/ravenscroftj/turbopilot/wiki/Converting-and-Quantizing-The-Models)
 - [ ] #ffff00 https://lightning.ai/pages/community/tutorial/accelerating-llama-with-fabric-a-comprehensive-guide-to-training-and-fine-tuning-llama/
 - [ ] #ffff00 [Faiss guidelines to choose index](https://github.com/facebookresearch/faiss/wiki/Guidelines-to-choose-an-index)
+- [ ] 
+
+Todos
+- setup learning plan
+- model evaluation
+- how to fine tune
+- master llama index
+- list down all possible prompting techniques like chain of thought, chain of not
+- where to get gpu
+- where to get free open ai token
+- master generative ai lifecycle
 
 In progress
 
