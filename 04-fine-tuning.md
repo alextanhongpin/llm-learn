@@ -1,0 +1,2 @@
+- peft parameter efficient fine tuning
+- dpo direct preference optimization
