@@ -36,6 +36,6 @@ How to evaluate the output?
 What counts as an improvement? You start with a base first. The base can be your original document. You van even ask the model "how does people usually do it" if your approach is unconventional.
 
 
-## Reproducibility 
+## Reproducibility
 
 Commit hash to prompt used as signature?
